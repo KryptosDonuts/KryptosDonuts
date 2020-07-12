@@ -12,12 +12,3 @@ A seasoned IT Professional who is passionate about server and network security. 
 ## Get in touch
 - [Linkend](https://www.linkedin.com/in/joven-talasan)
 - [Twitter](https://twitter.com/talzcloning)
-
-<a href="https://www.linkedin.com/in/joven-talasan">
-<img src="https://img.icons8.com/android/24/000000/linkedin.png" alt="Joven Talasan" height="30" width="30">
- </a>
- 
-<a href="https://dev.to/talzc">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Joven Talasan" height="30" width="30">
-</a>
-
