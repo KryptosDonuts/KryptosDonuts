@@ -13,3 +13,8 @@ A seasoned IT Professional who is passionate about server and network security. 
 - [Linkend](https://www.linkedin.com/in/joven-talasan)
 - [Twitter](https://twitter.com/talzcloning)
 
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=talzc.talzc)
+                
