@@ -12,3 +12,6 @@ A seasoned IT Professional who is passionate about server and network security. 
 ## Get in touch
 - [Linkend](https://www.linkedin.com/in/joven-talasan)
 - [Twitter](https://twitter.com/talzcloning)
+
+
+      ![visitors](https://visitor-badge.glitch.me/badge?page_id=talc.talzc)
