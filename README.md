@@ -15,6 +15,5 @@ A seasoned IT Professional who is passionate about server and network security. 
 
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=talzc.talzc)
+[![HitCount](http://hits.dwyl.com/talzc/talzc.svg)](http://hits.dwyl.com/talzc/talzc)
                 
