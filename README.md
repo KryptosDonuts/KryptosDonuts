@@ -18,5 +18,4 @@ A seasoned IT Professional who is passionate about server and network security. 
 
 
 
-[![HitCount](http://hits.dwyl.com/talzc/talzc.svg)](http://hits.dwyl.com/talzc/talzc)
-                
+![](https://komarev.com/ghpvc/?username=talzc)
