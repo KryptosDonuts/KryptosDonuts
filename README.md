@@ -1,3 +1,6 @@
+
+<img src="https://davidcel.is/gifs/cinemagraphs/whiskey-pour.gif" width="250" height="160"/>
+
 # Joven Talasan
 
 ⭐ Hi I'm Joven, love to automate **ALL THE THINGS.** ⭐ 
