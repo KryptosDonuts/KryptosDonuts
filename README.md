@@ -1,7 +1,7 @@
 
 <img src="https://davidcel.is/gifs/cinemagraphs/whiskey-pour.gif" width="250" height="160"/>
 
-# TAZ CLONING
+# TALZ CLONING
 
 ⭐ Hi I'm TALZ, like whisky and love to automate **ALL THE THINGS.** ⭐ 
 
