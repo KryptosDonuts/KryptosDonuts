@@ -11,6 +11,11 @@ A seasoned IT Professional who is passionate about server and network security. 
 ❇️ Ansible
 🌟 Powershell
 
+:star: Here are some projects for fun to expand my skill : 
+- [EBC Main Site](https://www.effectiveconsultancy.com.au/)
+- [EBC Landing Page](https://sydney.effectiveconsultancy.com.au/)
+- [Show IP](https://showip.io/)
+
 
 ## Get in touch
 - [Twitter](https://twitter.com/talzcloning)
