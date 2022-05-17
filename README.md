@@ -1,11 +1,15 @@
 
-<img src="https://t3.talz.net/talz/talz_cloning.png"/>
+<img src="https://t3.talz.net/talz/img/talz_cloning.png"/>
 
 ⭐ Hi I'm TALZ, like whisky and love to automate **ALL THE THINGS.** ⭐ 
 
 A seasoned IT Professional who is passionate about server and network security. Advocate for improving the security posture and applying security controls to network, virtual, endpoints and physical assets. Experience in Healthcare IT Enterprise environments and deep domain expertise on a Windows server, VMware, NetApp HCI, hardware components, and performance tuning.
 
-## Infrastructure automation
+## Infrastructure Tools
+<p align="left">
+  <img src="https://t3.talz.net/talz/img/powershell.svg" alt="Talz Cloning" style="vertical-align:top margin:6px 4px">
+</p>
+
 ❇️ Ansible
 🌟 Powershell
 
