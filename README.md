@@ -7,11 +7,14 @@ A seasoned IT Professional who is passionate about server and network security. 
 
 ## Infrastructure Tools
 <p align="left">
-  <img src="https://t3.talz.net/talz/img/powershell.svg" alt="Talz Cloning" style="vertical-align:top margin:6px 4px">
+  <img src="https://t3.talz.net/talz/img/powershell.svg" alt="Talz Cloning Powershell" style="vertical-align:top margin:6px 4px">
 </p>
 
-❇️ Ansible
-🌟 Powershell
+<p align="left">
+  <img src="https://t3.talz.net/talz/img/bash.svg" alt="Talz Cloning Bash" style="vertical-align:top margin:6px 4px">
+</p>
+
+
 
 :star: Here are some projects for fun to expand my skill : 
 - [EBC Main Site](https://www.effectiveconsultancy.com.au/)
