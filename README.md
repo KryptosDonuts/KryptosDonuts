@@ -1,5 +1,5 @@
 
-<img src="https://davidcel.is/gifs/cinemagraphs/whiskey-pour.gif" width="250" height="160"/>
+<img src="https://t3.talz.net/talz/talz-cloning.png" width="250" height="160"/>
 
 # TALZ CLONING
 
