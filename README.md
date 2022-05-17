@@ -8,6 +8,7 @@ A seasoned IT Professional who is passionate about server and network security. 
 ## Infrastructure Tools
 <p align="left">
   <img src="https://t3.talz.net/talz/img/powershell.svg" alt="Talz Cloning Powershell" style="vertical-align:top margin:6px 4px">
+  <img src="https://t3.talz.net/talz/img/bash.svg" alt="Talz Cloning Bash" style="vertical-align:top margin:6px 4px">
 </p>
 
 <p align="left">
