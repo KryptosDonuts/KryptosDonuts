@@ -1,5 +1,5 @@
 
-<img src="https://t3.talz.net/talz/talz-cloning.png"/>
+<img src="https://t3.talz.net/talz/talz_cloning.png"/>
 
 # TALZ CLONING
 
