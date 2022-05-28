@@ -1,7 +1,6 @@
 
 <img src="https://t3.talz.net/talz/img/talz_cloning.png"/>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 ⭐ Hi I'm TALZ, like whisky and love to automate **ALL THE THINGS.** ⭐ 
 
