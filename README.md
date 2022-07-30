@@ -28,7 +28,7 @@ A seasoned IT Professional who is passionate about server and network security. 
 - [Twitter](https://twitter.com/talzcloning)
 
 ## Blogs
-[ (ZTNA) using Cloudflare](https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/)
+1. [How to Implement Zero Trust Network Access (ZTNA) using Cloudflare](https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/)
 
 
 ![](https://komarev.com/ghpvc/?username=talzcloning)
