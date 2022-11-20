@@ -1,5 +1,5 @@
 
-<img src="https://t3.talz.net/talz/img/talz_cloning.png"/>
+
 
 
 ⭐ Hi I'm TALZ, like whisky and love to automate **ALL THE THINGS.** ⭐ 
