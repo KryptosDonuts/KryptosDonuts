@@ -1,7 +1,24 @@
 
-⭐ Greetings! I am TALZ and I have a fondness for whisky. I am also deeply passionate about automating processes to streamline and optimize systems. ⭐ 
+# Hello World! 👋
 
-A seasoned IT Professional who is passionate about server and network security. Advocate for improving the security posture and applying security controls to network, virtual, endpoints and physical assets. Experience in Healthcare IT Enterprise environments and deep domain expertise on a Windows server, VMware, NetApp HCI, hardware components, and performance tuning.
+I'm a technology enthusiast deeply engrossed in the world of server architecture, cluster deployment, and the integration of seamless services. My journey in tech has led me to explore the depths of containerization, with a keen focus on mastering Docker within self-hosted servers on VPS and AWS platforms.
+
+## What I Do
+
+- **Server and Cluster Deployment**: I thrive on designing and implementing scalable server infrastructures and clusters, ensuring high availability and performance.
+
+- **Containerization with Docker**: Currently, I'm diving deep into Docker, learning to containerize applications to achieve consistency across development, testing, and production environments.
+
+## My Learning Path
+
+- **Self-Hosted Servers**: By managing my own servers on VPS and AWS, I'm hands-on with deploying, monitoring, and optimizing applications in real-world scenarios.
+
+- **Continuous Growth**: I'm committed to continuous learning, always exploring new technologies and practices that push the boundaries of what I can build and improve.
+
+## Connect With Me
+
+If you're passionate about technology, love to discuss server architecture, Docker, or any cool tech, feel free to reach out! I'm always open to collaborating on projects or exchanging knowledge.
+
 
 ## Infrastructure Tools
 <p align="left">
@@ -15,7 +32,7 @@ A seasoned IT Professional who is passionate about server and network security. 
 
 
 
-:star: Here are some projects for fun to expand my skill : 
+:star: Featured Project : 
 - [My Self-Hosted Server on a VPS Using Docker](https://github.com/cloudcap10/configcraft)
 - [EBC Main Site](https://www.effectiveconsultancy.com.au/)
 - [Show IP](https://showip.io/)
