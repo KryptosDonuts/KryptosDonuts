@@ -13,7 +13,7 @@ I'm a technology enthusiast deeply engrossed in the world of server architecture
 
 ## My Learning Path
 
-- **Self-Hosted Servers**: By managing my own servers on VPS, Homelab running Proxmox and AWS, I'm hands-on with deploying, monitoring, and optimizing applications in real-world scenarios.
+- **Self-Hosted Servers**: By managing my own servers on VPS, Homelab running Proxmox, I'm hands-on with deploying, monitoring, and optimizing applications in real-world scenarios.
 
 - **Continuous Growth**: I'm committed to continuous learning, always exploring new technologies and practices that push the boundaries of what I can build and improve.
 
