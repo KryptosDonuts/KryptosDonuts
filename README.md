@@ -26,10 +26,9 @@ If you're passionate about technology, love to discuss server architecture, Dock
 <p align="left">
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s" style="vertical-align:top margin:6px 4px">
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" style="vertical-align:top margin:6px 4px">
-  <img src="https://t3.talz.net/talz/img/powershell.svg" alt="Talz Cloning Powershell" style="vertical-align:top margin:6px 4px">
-  <img src="https://t3.talz.net/talz/img/bash.svg" alt="Talz Cloning Bash" style="vertical-align:top margin:6px 4px">
-  <img src="https://t3.talz.net/talz/img/visualstudio_code.svg" alt="Talz Cloning visualstudio" style="vertical-align:top margin:6px 4px">
-  <img src="https://t3.talz.net/talz/img/docker.svg" alt="Talz Cloning Docker" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" style="vertical-align:top margin:6px 4px">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="vertical-align:top margin:6px 4px">
 </p>
 
 
