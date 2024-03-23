@@ -49,8 +49,4 @@ If you're passionate about technology, love to discuss server architecture, Dock
 ## Get in touch
 - [Linkedin](https://www.linkedin.com/in/joven-talasan/)
 
-## Blogs
-1. [How to Implement Zero Trust Network Access (ZTNA) using Cloudflare](https://zerotrustmodel.org/how-to-implement-zero-trust-network-access-ztna-using-cloudflare/)
-
-
 ![](https://komarev.com/ghpvc/?username=talzcloning)
