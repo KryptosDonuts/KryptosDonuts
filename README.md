@@ -1,5 +1,5 @@
 
-# Hello World! 👋
+# Greetings, World! 👋
 
 I'm a technology enthusiast deeply engrossed in the world of server architecture, cluster deployment, and the integration of seamless services. My journey in tech has led me to explore the depths of containerization, with a keen focus on mastering Docker within self-hosted servers on VPS, Proxmox and Kubernetes.
 
