@@ -10,6 +10,10 @@ I'm a technology enthusiast deeply engrossed in the world of server architecture
 - **Containerization with Docker**: Currently, I'm diving deep into Docker, learning to containerize applications to achieve consistency across development, testing, and production environments.
 
 - **K3S on Diverse Platforms**: Diving into the world of Kubernetes with K3S, I have successfully deployed clusters across various environments including Proxmox, and integrated key technologies such as Rancher for management, Longhorn for storage solutions, Traefik for load balancing, cert-manager and Argo CD for gitops. This journey has expanded my expertise in both container orchestration and the optimization of microservices.
+<p align="center">
+<img src="https://t3.talz.net/talz/img/k8s.png" alt="k8s"/>
+</p>
+
 
 ## My Learning Path
 
