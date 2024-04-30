@@ -46,6 +46,7 @@ If you're passionate about technology, love to discuss server architecture, Dock
 
 :star: Featured Project : 
 - [My Self-Hosted Server on a VPS Using Docker](https://github.com/cloudcap10/configcraft)
+- [My Kubernetes cluster](https://github.com/cloudcap10/k8s-cluster)
 - [EBC Main Site](https://www.effectiveconsultancy.com.au/)
 - [Show IP](https://showip.io/)
 
